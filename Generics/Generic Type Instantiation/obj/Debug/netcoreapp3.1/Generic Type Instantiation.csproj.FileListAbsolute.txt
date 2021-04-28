@@ -1,0 +1,12 @@
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Type Instantiation\bin\Debug\netcoreapp3.1\Generic Type Instantiation.exe
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Type Instantiation\bin\Debug\netcoreapp3.1\Generic Type Instantiation.deps.json
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Type Instantiation\bin\Debug\netcoreapp3.1\Generic Type Instantiation.runtimeconfig.json
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Type Instantiation\bin\Debug\netcoreapp3.1\Generic Type Instantiation.runtimeconfig.dev.json
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Type Instantiation\bin\Debug\netcoreapp3.1\Generic Type Instantiation.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Type Instantiation\bin\Debug\netcoreapp3.1\Generic Type Instantiation.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Type Instantiation\obj\Debug\netcoreapp3.1\Generic Type Instantiation.AssemblyInfoInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Type Instantiation\obj\Debug\netcoreapp3.1\Generic Type Instantiation.AssemblyInfo.cs
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Type Instantiation\obj\Debug\netcoreapp3.1\Generic Type Instantiation.csproj.CoreCompileInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Type Instantiation\obj\Debug\netcoreapp3.1\Generic Type Instantiation.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Type Instantiation\obj\Debug\netcoreapp3.1\Generic Type Instantiation.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Type Instantiation\obj\Debug\netcoreapp3.1\Generic Type Instantiation.genruntimeconfig.cache

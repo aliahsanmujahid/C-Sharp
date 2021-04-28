@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Generic Open and Closed Types/1.0.0": {
+        "runtime": {
+          "Generic Open and Closed Types.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Generic Open and Closed Types/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

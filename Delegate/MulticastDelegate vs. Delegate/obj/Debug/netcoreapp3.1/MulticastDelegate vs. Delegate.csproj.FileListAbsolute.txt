@@ -1,0 +1,13 @@
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\MulticastDelegate vs. Delegate\bin\Debug\netcoreapp3.1\MulticastDelegate vs. Delegate.exe
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\MulticastDelegate vs. Delegate\bin\Debug\netcoreapp3.1\MulticastDelegate vs. Delegate.deps.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\MulticastDelegate vs. Delegate\bin\Debug\netcoreapp3.1\MulticastDelegate vs. Delegate.runtimeconfig.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\MulticastDelegate vs. Delegate\bin\Debug\netcoreapp3.1\MulticastDelegate vs. Delegate.runtimeconfig.dev.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\MulticastDelegate vs. Delegate\bin\Debug\netcoreapp3.1\MulticastDelegate vs. Delegate.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\MulticastDelegate vs. Delegate\bin\Debug\netcoreapp3.1\MulticastDelegate vs. Delegate.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\MulticastDelegate vs. Delegate\obj\Debug\netcoreapp3.1\MulticastDelegate vs. Delegate.csprojAssemblyReference.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\MulticastDelegate vs. Delegate\obj\Debug\netcoreapp3.1\MulticastDelegate vs. Delegate.AssemblyInfoInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\MulticastDelegate vs. Delegate\obj\Debug\netcoreapp3.1\MulticastDelegate vs. Delegate.AssemblyInfo.cs
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\MulticastDelegate vs. Delegate\obj\Debug\netcoreapp3.1\MulticastDelegate vs. Delegate.csproj.CoreCompileInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\MulticastDelegate vs. Delegate\obj\Debug\netcoreapp3.1\MulticastDelegate vs. Delegate.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\MulticastDelegate vs. Delegate\obj\Debug\netcoreapp3.1\MulticastDelegate vs. Delegate.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\MulticastDelegate vs. Delegate\obj\Debug\netcoreapp3.1\MulticastDelegate vs. Delegate.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Closures\bin\Debug\netcoreapp3.1\Closures.exe
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Closures\bin\Debug\netcoreapp3.1\Closures.deps.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Closures\bin\Debug\netcoreapp3.1\Closures.runtimeconfig.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Closures\bin\Debug\netcoreapp3.1\Closures.runtimeconfig.dev.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Closures\bin\Debug\netcoreapp3.1\Closures.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Closures\bin\Debug\netcoreapp3.1\Closures.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Closures\obj\Debug\netcoreapp3.1\Closures.AssemblyInfoInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Closures\obj\Debug\netcoreapp3.1\Closures.AssemblyInfo.cs
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Closures\obj\Debug\netcoreapp3.1\Closures.csproj.CoreCompileInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Closures\obj\Debug\netcoreapp3.1\Closures.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Closures\obj\Debug\netcoreapp3.1\Closures.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Closures\obj\Debug\netcoreapp3.1\Closures.genruntimeconfig.cache

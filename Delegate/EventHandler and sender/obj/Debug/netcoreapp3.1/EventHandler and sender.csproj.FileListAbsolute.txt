@@ -1,0 +1,12 @@
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\EventHandler and sender\bin\Debug\netcoreapp3.1\EventHandler and sender.exe
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\EventHandler and sender\bin\Debug\netcoreapp3.1\EventHandler and sender.deps.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\EventHandler and sender\bin\Debug\netcoreapp3.1\EventHandler and sender.runtimeconfig.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\EventHandler and sender\bin\Debug\netcoreapp3.1\EventHandler and sender.runtimeconfig.dev.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\EventHandler and sender\bin\Debug\netcoreapp3.1\EventHandler and sender.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\EventHandler and sender\bin\Debug\netcoreapp3.1\EventHandler and sender.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\EventHandler and sender\obj\Debug\netcoreapp3.1\EventHandler and sender.AssemblyInfoInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\EventHandler and sender\obj\Debug\netcoreapp3.1\EventHandler and sender.AssemblyInfo.cs
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\EventHandler and sender\obj\Debug\netcoreapp3.1\EventHandler and sender.csproj.CoreCompileInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\EventHandler and sender\obj\Debug\netcoreapp3.1\EventHandler and sender.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\EventHandler and sender\obj\Debug\netcoreapp3.1\EventHandler and sender.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\EventHandler and sender\obj\Debug\netcoreapp3.1\EventHandler and sender.genruntimeconfig.cache

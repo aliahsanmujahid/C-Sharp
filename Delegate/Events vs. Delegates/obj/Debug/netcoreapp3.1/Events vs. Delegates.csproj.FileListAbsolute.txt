@@ -1,0 +1,12 @@
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Events vs. Delegates\bin\Debug\netcoreapp3.1\Events vs. Delegates.exe
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Events vs. Delegates\bin\Debug\netcoreapp3.1\Events vs. Delegates.deps.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Events vs. Delegates\bin\Debug\netcoreapp3.1\Events vs. Delegates.runtimeconfig.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Events vs. Delegates\bin\Debug\netcoreapp3.1\Events vs. Delegates.runtimeconfig.dev.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Events vs. Delegates\bin\Debug\netcoreapp3.1\Events vs. Delegates.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Events vs. Delegates\bin\Debug\netcoreapp3.1\Events vs. Delegates.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Events vs. Delegates\obj\Debug\netcoreapp3.1\Events vs. Delegates.AssemblyInfoInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Events vs. Delegates\obj\Debug\netcoreapp3.1\Events vs. Delegates.AssemblyInfo.cs
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Events vs. Delegates\obj\Debug\netcoreapp3.1\Events vs. Delegates.csproj.CoreCompileInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Events vs. Delegates\obj\Debug\netcoreapp3.1\Events vs. Delegates.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Events vs. Delegates\obj\Debug\netcoreapp3.1\Events vs. Delegates.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Events vs. Delegates\obj\Debug\netcoreapp3.1\Events vs. Delegates.genruntimeconfig.cache

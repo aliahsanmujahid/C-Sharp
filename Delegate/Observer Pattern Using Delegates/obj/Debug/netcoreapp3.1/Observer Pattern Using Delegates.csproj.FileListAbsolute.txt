@@ -1,0 +1,13 @@
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Observer Pattern Using Delegates\bin\Debug\netcoreapp3.1\Observer Pattern Using Delegates.exe
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Observer Pattern Using Delegates\bin\Debug\netcoreapp3.1\Observer Pattern Using Delegates.deps.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Observer Pattern Using Delegates\bin\Debug\netcoreapp3.1\Observer Pattern Using Delegates.runtimeconfig.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Observer Pattern Using Delegates\bin\Debug\netcoreapp3.1\Observer Pattern Using Delegates.runtimeconfig.dev.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Observer Pattern Using Delegates\bin\Debug\netcoreapp3.1\Observer Pattern Using Delegates.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Observer Pattern Using Delegates\bin\Debug\netcoreapp3.1\Observer Pattern Using Delegates.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Observer Pattern Using Delegates\obj\Debug\netcoreapp3.1\Observer Pattern Using Delegates.csprojAssemblyReference.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Observer Pattern Using Delegates\obj\Debug\netcoreapp3.1\Observer Pattern Using Delegates.AssemblyInfoInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Observer Pattern Using Delegates\obj\Debug\netcoreapp3.1\Observer Pattern Using Delegates.AssemblyInfo.cs
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Observer Pattern Using Delegates\obj\Debug\netcoreapp3.1\Observer Pattern Using Delegates.csproj.CoreCompileInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Observer Pattern Using Delegates\obj\Debug\netcoreapp3.1\Observer Pattern Using Delegates.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Observer Pattern Using Delegates\obj\Debug\netcoreapp3.1\Observer Pattern Using Delegates.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Observer Pattern Using Delegates\obj\Debug\netcoreapp3.1\Observer Pattern Using Delegates.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Func and Action\bin\Debug\netcoreapp3.1\Func and Action.exe
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Func and Action\bin\Debug\netcoreapp3.1\Func and Action.deps.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Func and Action\bin\Debug\netcoreapp3.1\Func and Action.runtimeconfig.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Func and Action\bin\Debug\netcoreapp3.1\Func and Action.runtimeconfig.dev.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Func and Action\bin\Debug\netcoreapp3.1\Func and Action.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Func and Action\bin\Debug\netcoreapp3.1\Func and Action.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Func and Action\obj\Debug\netcoreapp3.1\Func and Action.csprojAssemblyReference.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Func and Action\obj\Debug\netcoreapp3.1\Func and Action.AssemblyInfoInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Func and Action\obj\Debug\netcoreapp3.1\Func and Action.AssemblyInfo.cs
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Func and Action\obj\Debug\netcoreapp3.1\Func and Action.csproj.CoreCompileInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Func and Action\obj\Debug\netcoreapp3.1\Func and Action.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Func and Action\obj\Debug\netcoreapp3.1\Func and Action.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Func and Action\obj\Debug\netcoreapp3.1\Func and Action.genruntimeconfig.cache

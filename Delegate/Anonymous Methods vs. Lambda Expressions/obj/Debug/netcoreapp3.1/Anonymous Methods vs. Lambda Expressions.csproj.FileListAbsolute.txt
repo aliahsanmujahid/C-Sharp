@@ -1,0 +1,12 @@
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Anonymous Methods vs. Lambda Expressions\bin\Debug\netcoreapp3.1\Anonymous Methods vs. Lambda Expressions.exe
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Anonymous Methods vs. Lambda Expressions\bin\Debug\netcoreapp3.1\Anonymous Methods vs. Lambda Expressions.deps.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Anonymous Methods vs. Lambda Expressions\bin\Debug\netcoreapp3.1\Anonymous Methods vs. Lambda Expressions.runtimeconfig.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Anonymous Methods vs. Lambda Expressions\bin\Debug\netcoreapp3.1\Anonymous Methods vs. Lambda Expressions.runtimeconfig.dev.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Anonymous Methods vs. Lambda Expressions\bin\Debug\netcoreapp3.1\Anonymous Methods vs. Lambda Expressions.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Anonymous Methods vs. Lambda Expressions\bin\Debug\netcoreapp3.1\Anonymous Methods vs. Lambda Expressions.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Anonymous Methods vs. Lambda Expressions\obj\Debug\netcoreapp3.1\Anonymous Methods vs. Lambda Expressions.AssemblyInfoInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Anonymous Methods vs. Lambda Expressions\obj\Debug\netcoreapp3.1\Anonymous Methods vs. Lambda Expressions.AssemblyInfo.cs
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Anonymous Methods vs. Lambda Expressions\obj\Debug\netcoreapp3.1\Anonymous Methods vs. Lambda Expressions.csproj.CoreCompileInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Anonymous Methods vs. Lambda Expressions\obj\Debug\netcoreapp3.1\Anonymous Methods vs. Lambda Expressions.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Anonymous Methods vs. Lambda Expressions\obj\Debug\netcoreapp3.1\Anonymous Methods vs. Lambda Expressions.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Anonymous Methods vs. Lambda Expressions\obj\Debug\netcoreapp3.1\Anonymous Methods vs. Lambda Expressions.genruntimeconfig.cache

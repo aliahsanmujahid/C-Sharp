@@ -1,0 +1,13 @@
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Delegates2\bin\Debug\netcoreapp3.1\Delegates2.exe
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Delegates2\bin\Debug\netcoreapp3.1\Delegates2.deps.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Delegates2\bin\Debug\netcoreapp3.1\Delegates2.runtimeconfig.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Delegates2\bin\Debug\netcoreapp3.1\Delegates2.runtimeconfig.dev.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Delegates2\bin\Debug\netcoreapp3.1\Delegates2.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Delegates2\bin\Debug\netcoreapp3.1\Delegates2.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Delegates2\obj\Debug\netcoreapp3.1\Delegates2.csprojAssemblyReference.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Delegates2\obj\Debug\netcoreapp3.1\Delegates2.AssemblyInfoInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Delegates2\obj\Debug\netcoreapp3.1\Delegates2.AssemblyInfo.cs
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Delegates2\obj\Debug\netcoreapp3.1\Delegates2.csproj.CoreCompileInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Delegates2\obj\Debug\netcoreapp3.1\Delegates2.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Delegates2\obj\Debug\netcoreapp3.1\Delegates2.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Delegates2\obj\Debug\netcoreapp3.1\Delegates2.genruntimeconfig.cache

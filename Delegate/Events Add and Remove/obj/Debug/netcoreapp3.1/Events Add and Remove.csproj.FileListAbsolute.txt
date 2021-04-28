@@ -1,0 +1,13 @@
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Events Add and Remove\bin\Debug\netcoreapp3.1\Events Add and Remove.exe
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Events Add and Remove\bin\Debug\netcoreapp3.1\Events Add and Remove.deps.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Events Add and Remove\bin\Debug\netcoreapp3.1\Events Add and Remove.runtimeconfig.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Events Add and Remove\bin\Debug\netcoreapp3.1\Events Add and Remove.runtimeconfig.dev.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Events Add and Remove\bin\Debug\netcoreapp3.1\Events Add and Remove.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Events Add and Remove\bin\Debug\netcoreapp3.1\Events Add and Remove.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Events Add and Remove\obj\Debug\netcoreapp3.1\Events Add and Remove.csprojAssemblyReference.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Events Add and Remove\obj\Debug\netcoreapp3.1\Events Add and Remove.AssemblyInfoInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Events Add and Remove\obj\Debug\netcoreapp3.1\Events Add and Remove.AssemblyInfo.cs
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Events Add and Remove\obj\Debug\netcoreapp3.1\Events Add and Remove.csproj.CoreCompileInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Events Add and Remove\obj\Debug\netcoreapp3.1\Events Add and Remove.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Events Add and Remove\obj\Debug\netcoreapp3.1\Events Add and Remove.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Events Add and Remove\obj\Debug\netcoreapp3.1\Events Add and Remove.genruntimeconfig.cache

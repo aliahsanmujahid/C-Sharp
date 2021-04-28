@@ -1,0 +1,13 @@
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate Expresion Tree\Delegate Expresion Tree\bin\Debug\netcoreapp3.1\Delegate Expresion Tree.exe
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate Expresion Tree\Delegate Expresion Tree\bin\Debug\netcoreapp3.1\Delegate Expresion Tree.deps.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate Expresion Tree\Delegate Expresion Tree\bin\Debug\netcoreapp3.1\Delegate Expresion Tree.runtimeconfig.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate Expresion Tree\Delegate Expresion Tree\bin\Debug\netcoreapp3.1\Delegate Expresion Tree.runtimeconfig.dev.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate Expresion Tree\Delegate Expresion Tree\bin\Debug\netcoreapp3.1\Delegate Expresion Tree.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate Expresion Tree\Delegate Expresion Tree\bin\Debug\netcoreapp3.1\Delegate Expresion Tree.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate Expresion Tree\Delegate Expresion Tree\obj\Debug\netcoreapp3.1\Delegate Expresion Tree.csprojAssemblyReference.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate Expresion Tree\Delegate Expresion Tree\obj\Debug\netcoreapp3.1\Delegate Expresion Tree.AssemblyInfoInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate Expresion Tree\Delegate Expresion Tree\obj\Debug\netcoreapp3.1\Delegate Expresion Tree.AssemblyInfo.cs
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate Expresion Tree\Delegate Expresion Tree\obj\Debug\netcoreapp3.1\Delegate Expresion Tree.csproj.CoreCompileInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate Expresion Tree\Delegate Expresion Tree\obj\Debug\netcoreapp3.1\Delegate Expresion Tree.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate Expresion Tree\Delegate Expresion Tree\obj\Debug\netcoreapp3.1\Delegate Expresion Tree.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate Expresion Tree\Delegate Expresion Tree\obj\Debug\netcoreapp3.1\Delegate Expresion Tree.genruntimeconfig.cache

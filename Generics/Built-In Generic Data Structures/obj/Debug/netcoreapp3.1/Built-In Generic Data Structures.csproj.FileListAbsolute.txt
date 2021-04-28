@@ -1,0 +1,13 @@
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Built-In Generic Data Structures\bin\Debug\netcoreapp3.1\Built-In Generic Data Structures.exe
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Built-In Generic Data Structures\bin\Debug\netcoreapp3.1\Built-In Generic Data Structures.deps.json
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Built-In Generic Data Structures\bin\Debug\netcoreapp3.1\Built-In Generic Data Structures.runtimeconfig.json
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Built-In Generic Data Structures\bin\Debug\netcoreapp3.1\Built-In Generic Data Structures.runtimeconfig.dev.json
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Built-In Generic Data Structures\bin\Debug\netcoreapp3.1\Built-In Generic Data Structures.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Built-In Generic Data Structures\bin\Debug\netcoreapp3.1\Built-In Generic Data Structures.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Built-In Generic Data Structures\obj\Debug\netcoreapp3.1\Built-In Generic Data Structures.AssemblyInfoInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Built-In Generic Data Structures\obj\Debug\netcoreapp3.1\Built-In Generic Data Structures.AssemblyInfo.cs
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Built-In Generic Data Structures\obj\Debug\netcoreapp3.1\Built-In Generic Data Structures.csproj.CoreCompileInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Built-In Generic Data Structures\obj\Debug\netcoreapp3.1\Built-In Generic Data Structures.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Built-In Generic Data Structures\obj\Debug\netcoreapp3.1\Built-In Generic Data Structures.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Built-In Generic Data Structures\obj\Debug\netcoreapp3.1\Built-In Generic Data Structures.genruntimeconfig.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Built-In Generic Data Structures\obj\Debug\netcoreapp3.1\Built-In Generic Data Structures.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Type Inference\bin\Debug\netcoreapp3.1\Generic Type Inference.exe
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Type Inference\bin\Debug\netcoreapp3.1\Generic Type Inference.deps.json
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Type Inference\bin\Debug\netcoreapp3.1\Generic Type Inference.runtimeconfig.json
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Type Inference\bin\Debug\netcoreapp3.1\Generic Type Inference.runtimeconfig.dev.json
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Type Inference\bin\Debug\netcoreapp3.1\Generic Type Inference.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Type Inference\bin\Debug\netcoreapp3.1\Generic Type Inference.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Type Inference\obj\Debug\netcoreapp3.1\Generic Type Inference.AssemblyInfoInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Type Inference\obj\Debug\netcoreapp3.1\Generic Type Inference.AssemblyInfo.cs
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Type Inference\obj\Debug\netcoreapp3.1\Generic Type Inference.csproj.CoreCompileInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Type Inference\obj\Debug\netcoreapp3.1\Generic Type Inference.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Type Inference\obj\Debug\netcoreapp3.1\Generic Type Inference.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Type Inference\obj\Debug\netcoreapp3.1\Generic Type Inference.genruntimeconfig.cache

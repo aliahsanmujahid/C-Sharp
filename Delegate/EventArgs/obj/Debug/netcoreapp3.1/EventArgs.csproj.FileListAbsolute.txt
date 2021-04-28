@@ -1,0 +1,12 @@
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\EventArgs\bin\Debug\netcoreapp3.1\EventArgs.exe
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\EventArgs\bin\Debug\netcoreapp3.1\EventArgs.deps.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\EventArgs\bin\Debug\netcoreapp3.1\EventArgs.runtimeconfig.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\EventArgs\bin\Debug\netcoreapp3.1\EventArgs.runtimeconfig.dev.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\EventArgs\bin\Debug\netcoreapp3.1\EventArgs.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\EventArgs\bin\Debug\netcoreapp3.1\EventArgs.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\EventArgs\obj\Debug\netcoreapp3.1\EventArgs.AssemblyInfoInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\EventArgs\obj\Debug\netcoreapp3.1\EventArgs.AssemblyInfo.cs
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\EventArgs\obj\Debug\netcoreapp3.1\EventArgs.csproj.CoreCompileInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\EventArgs\obj\Debug\netcoreapp3.1\EventArgs.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\EventArgs\obj\Debug\netcoreapp3.1\EventArgs.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\EventArgs\obj\Debug\netcoreapp3.1\EventArgs.genruntimeconfig.cache

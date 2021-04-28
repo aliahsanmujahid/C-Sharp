@@ -1,0 +1,13 @@
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\deleget3\bin\Debug\netcoreapp3.1\deleget3.exe
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\deleget3\bin\Debug\netcoreapp3.1\deleget3.deps.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\deleget3\bin\Debug\netcoreapp3.1\deleget3.runtimeconfig.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\deleget3\bin\Debug\netcoreapp3.1\deleget3.runtimeconfig.dev.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\deleget3\bin\Debug\netcoreapp3.1\deleget3.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\deleget3\bin\Debug\netcoreapp3.1\deleget3.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\deleget3\obj\Debug\netcoreapp3.1\deleget3.csprojAssemblyReference.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\deleget3\obj\Debug\netcoreapp3.1\deleget3.AssemblyInfoInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\deleget3\obj\Debug\netcoreapp3.1\deleget3.AssemblyInfo.cs
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\deleget3\obj\Debug\netcoreapp3.1\deleget3.csproj.CoreCompileInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\deleget3\obj\Debug\netcoreapp3.1\deleget3.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\deleget3\obj\Debug\netcoreapp3.1\deleget3.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\deleget3\obj\Debug\netcoreapp3.1\deleget3.genruntimeconfig.cache

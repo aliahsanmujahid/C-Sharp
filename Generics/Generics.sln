@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{402EC9BE-6685-4460-98B2-85169EB5312C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics and Code Bloat", "Generics and Code Bloat\Generics and Code Bloat.csproj", "{E1B2EC1D-1DB9-4DC1-9664-CC5CF0D4D981}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic Generic Data Structure", "Basic Generic Data Structure\Basic Generic Data Structure.csproj", "{99B33DEC-F1ED-4765-843B-D71842BBA199}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic Methods", "Generic Methods\Generic Methods.csproj", "{DFD198E0-7030-4B37-BF04-A4053C053668}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Built-In Generic Data Structures", "Built-In Generic Data Structures\Built-In Generic Data Structures.csproj", "{E702F4F1-B305-4E46-8B2A-931806FD700F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic Type Instantiation", "Generic Type Instantiation\Generic Type Instantiation.csproj", "{7E695082-BE9D-4D7D-8A3B-40411D2213DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic Open and Closed Types", "Generic Open and Closed Types\Generic Open and Closed Types.csproj", "{B66A5320-2709-414D-B28B-584679BF63AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic Type Inference", "Generic Type Inference\Generic Type Inference.csproj", "{B399A429-4E95-4742-B992-22FA291E8912}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optimizing Code Bloat Out", "Optimizing Code Bloat Out\Optimizing Code Bloat Out.csproj", "{F62D62A8-667C-4992-AD3A-6713BC336B0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic Constraints Part 1", "Generic Constraints Part 1\Generic Constraints Part 1.csproj", "{1966B7EE-B76E-4ACB-87D1-87DBFB269DEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic Constraints Part 2", "Generic Constraints Part 2\Generic Constraints Part 2.csproj", "{ACE738A5-5718-49E1-B5D4-A7F79DBE4B2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{402EC9BE-6685-4460-98B2-85169EB5312C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{402EC9BE-6685-4460-98B2-85169EB5312C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{402EC9BE-6685-4460-98B2-85169EB5312C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{402EC9BE-6685-4460-98B2-85169EB5312C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1B2EC1D-1DB9-4DC1-9664-CC5CF0D4D981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1B2EC1D-1DB9-4DC1-9664-CC5CF0D4D981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1B2EC1D-1DB9-4DC1-9664-CC5CF0D4D981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1B2EC1D-1DB9-4DC1-9664-CC5CF0D4D981}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99B33DEC-F1ED-4765-843B-D71842BBA199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B33DEC-F1ED-4765-843B-D71842BBA199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B33DEC-F1ED-4765-843B-D71842BBA199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B33DEC-F1ED-4765-843B-D71842BBA199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFD198E0-7030-4B37-BF04-A4053C053668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFD198E0-7030-4B37-BF04-A4053C053668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFD198E0-7030-4B37-BF04-A4053C053668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFD198E0-7030-4B37-BF04-A4053C053668}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E702F4F1-B305-4E46-8B2A-931806FD700F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E702F4F1-B305-4E46-8B2A-931806FD700F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E702F4F1-B305-4E46-8B2A-931806FD700F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E702F4F1-B305-4E46-8B2A-931806FD700F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E695082-BE9D-4D7D-8A3B-40411D2213DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E695082-BE9D-4D7D-8A3B-40411D2213DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E695082-BE9D-4D7D-8A3B-40411D2213DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E695082-BE9D-4D7D-8A3B-40411D2213DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B66A5320-2709-414D-B28B-584679BF63AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B66A5320-2709-414D-B28B-584679BF63AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B66A5320-2709-414D-B28B-584679BF63AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B66A5320-2709-414D-B28B-584679BF63AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B399A429-4E95-4742-B992-22FA291E8912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B399A429-4E95-4742-B992-22FA291E8912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B399A429-4E95-4742-B992-22FA291E8912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B399A429-4E95-4742-B992-22FA291E8912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F62D62A8-667C-4992-AD3A-6713BC336B0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62D62A8-667C-4992-AD3A-6713BC336B0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62D62A8-667C-4992-AD3A-6713BC336B0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F62D62A8-667C-4992-AD3A-6713BC336B0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1966B7EE-B76E-4ACB-87D1-87DBFB269DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1966B7EE-B76E-4ACB-87D1-87DBFB269DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1966B7EE-B76E-4ACB-87D1-87DBFB269DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1966B7EE-B76E-4ACB-87D1-87DBFB269DEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACE738A5-5718-49E1-B5D4-A7F79DBE4B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE738A5-5718-49E1-B5D4-A7F79DBE4B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE738A5-5718-49E1-B5D4-A7F79DBE4B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE738A5-5718-49E1-B5D4-A7F79DBE4B2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF72B303-0617-4D77-AECE-4C40BC2C23ED}
+	EndGlobalSection
+EndGlobal

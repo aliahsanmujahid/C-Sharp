@@ -1,0 +1,13 @@
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.exe
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.deps.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.dev.json
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.csprojAssemblyReference.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfoInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfo.cs
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.genruntimeconfig.cache

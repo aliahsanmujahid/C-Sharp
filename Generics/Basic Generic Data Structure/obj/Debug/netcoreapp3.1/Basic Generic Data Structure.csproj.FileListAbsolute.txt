@@ -1,0 +1,13 @@
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Basic Generic Data Structure\bin\Debug\netcoreapp3.1\Basic Generic Data Structure.exe
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Basic Generic Data Structure\bin\Debug\netcoreapp3.1\Basic Generic Data Structure.deps.json
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Basic Generic Data Structure\bin\Debug\netcoreapp3.1\Basic Generic Data Structure.runtimeconfig.json
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Basic Generic Data Structure\bin\Debug\netcoreapp3.1\Basic Generic Data Structure.runtimeconfig.dev.json
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Basic Generic Data Structure\bin\Debug\netcoreapp3.1\Basic Generic Data Structure.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Basic Generic Data Structure\bin\Debug\netcoreapp3.1\Basic Generic Data Structure.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Basic Generic Data Structure\obj\Debug\netcoreapp3.1\Basic Generic Data Structure.csprojAssemblyReference.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Basic Generic Data Structure\obj\Debug\netcoreapp3.1\Basic Generic Data Structure.AssemblyInfoInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Basic Generic Data Structure\obj\Debug\netcoreapp3.1\Basic Generic Data Structure.AssemblyInfo.cs
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Basic Generic Data Structure\obj\Debug\netcoreapp3.1\Basic Generic Data Structure.csproj.CoreCompileInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Basic Generic Data Structure\obj\Debug\netcoreapp3.1\Basic Generic Data Structure.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Basic Generic Data Structure\obj\Debug\netcoreapp3.1\Basic Generic Data Structure.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Basic Generic Data Structure\obj\Debug\netcoreapp3.1\Basic Generic Data Structure.genruntimeconfig.cache

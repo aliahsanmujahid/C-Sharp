@@ -1,0 +1,13 @@
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generics and Code Bloat\bin\Debug\netcoreapp3.1\Generics and Code Bloat.exe
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generics and Code Bloat\bin\Debug\netcoreapp3.1\Generics and Code Bloat.deps.json
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generics and Code Bloat\bin\Debug\netcoreapp3.1\Generics and Code Bloat.runtimeconfig.json
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generics and Code Bloat\bin\Debug\netcoreapp3.1\Generics and Code Bloat.runtimeconfig.dev.json
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generics and Code Bloat\bin\Debug\netcoreapp3.1\Generics and Code Bloat.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generics and Code Bloat\bin\Debug\netcoreapp3.1\Generics and Code Bloat.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generics and Code Bloat\obj\Debug\netcoreapp3.1\Generics and Code Bloat.csprojAssemblyReference.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generics and Code Bloat\obj\Debug\netcoreapp3.1\Generics and Code Bloat.AssemblyInfoInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generics and Code Bloat\obj\Debug\netcoreapp3.1\Generics and Code Bloat.AssemblyInfo.cs
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generics and Code Bloat\obj\Debug\netcoreapp3.1\Generics and Code Bloat.csproj.CoreCompileInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generics and Code Bloat\obj\Debug\netcoreapp3.1\Generics and Code Bloat.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generics and Code Bloat\obj\Debug\netcoreapp3.1\Generics and Code Bloat.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generics and Code Bloat\obj\Debug\netcoreapp3.1\Generics and Code Bloat.genruntimeconfig.cache

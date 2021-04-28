@@ -1,0 +1,12 @@
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Open and Closed Types\bin\Debug\netcoreapp3.1\Generic Open and Closed Types.exe
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Open and Closed Types\bin\Debug\netcoreapp3.1\Generic Open and Closed Types.deps.json
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Open and Closed Types\bin\Debug\netcoreapp3.1\Generic Open and Closed Types.runtimeconfig.json
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Open and Closed Types\bin\Debug\netcoreapp3.1\Generic Open and Closed Types.runtimeconfig.dev.json
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Open and Closed Types\bin\Debug\netcoreapp3.1\Generic Open and Closed Types.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Open and Closed Types\bin\Debug\netcoreapp3.1\Generic Open and Closed Types.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Open and Closed Types\obj\Debug\netcoreapp3.1\Generic Open and Closed Types.AssemblyInfoInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Open and Closed Types\obj\Debug\netcoreapp3.1\Generic Open and Closed Types.AssemblyInfo.cs
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Open and Closed Types\obj\Debug\netcoreapp3.1\Generic Open and Closed Types.csproj.CoreCompileInputs.cache
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Open and Closed Types\obj\Debug\netcoreapp3.1\Generic Open and Closed Types.dll
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Open and Closed Types\obj\Debug\netcoreapp3.1\Generic Open and Closed Types.pdb
+C:\Users\mujahid\Desktop\Running Project\c#\Generics\Generic Open and Closed Types\obj\Debug\netcoreapp3.1\Generic Open and Closed Types.genruntimeconfig.cache
